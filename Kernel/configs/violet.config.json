@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "evolution",
-      "repo": "https://github.com/kibria5/android_kernel_xiaomi_violet",
+      "repo": "https://github.com/Ancient-Project/android_kernel_xiaomi_violet",
       "branch": "14",
       "device": "violet",
       "defconfig": "vendor/violet-perf_defconfig"
