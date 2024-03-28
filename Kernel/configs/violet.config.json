@@ -37,11 +37,7 @@
     },
     "AnyKernel3": {
       "use": true,
-      "release": true,
-      "custom": {
-        "repo": "https://github.com/easterNday/AnyKernel3/",
-        "branch": "thyme"
-      }
+      "release": true
     },
     "enableKernelSU": true,
     "enableLXC": true
