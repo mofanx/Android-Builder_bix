@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "evolution",
-      "repo": "https://github.com/ProjectElixir-Devices/kernel_xiaomi_violet",
-      "branch": "fourteen",
+      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_violet",
+      "branch": "14.0",
       "device": "violet",
       "defconfig": "vendor/violet-perf_defconfig"
     },
